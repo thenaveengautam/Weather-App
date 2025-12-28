@@ -79,7 +79,7 @@ const apiKey = "YOUR_API_KEY_HERE";
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/generate-password.git
+git clone https://github.com/your-username/weather-app.git
 
 2. Open the project folder:
 
@@ -89,4 +89,6 @@ git clone https://github.com/your-username/generate-password.git
 
 ## 📜 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and free to use.
+
+⭐ Don’t forget to star the repository if you like it!
